@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sumitprajapati423/React-project.git/static/css/main.fb3d37d7.css",
+    "main.js": "/sumitprajapati423/React-project.git/static/js/main.3403cf95.js",
+    "index.html": "/sumitprajapati423/React-project.git/index.html",
+    "main.fb3d37d7.css.map": "/sumitprajapati423/React-project.git/static/css/main.fb3d37d7.css.map",
+    "main.3403cf95.js.map": "/sumitprajapati423/React-project.git/static/js/main.3403cf95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3d37d7.css",
+    "static/js/main.3403cf95.js"
+  ]
+}
